@@ -1,4 +1,4 @@
-# Corrlation-analysis-and-GUV-analysis for the paper: https://www.biorxiv.org/content/10.1101/2021.12.27.474257v2
+# Correlation-analysis-and-GUV-analysis for the paper: https://www.biorxiv.org/content/10.1101/2021.12.27.474257v2
 #Correlation analysis codes:
 Split_images_from_multi_channel_images.py
 Autocorrelation_and_crosscorrelation.m
